@@ -24,9 +24,7 @@ I specialize in creating dynamic and scalable web applications with a strong foc
 
 ## 📫 Let's Connect
 You can reach out to me via:
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
 - **LinkedIn**: [sohaibhassan6](https://www.linkedin.com/in/sohaibhassan6/)
-- **Twitter**: [@your-twitter-handle](https://twitter.com/your-twitter-handle)
 
 ## 👨‍💻 Pronouns
 He/Him
