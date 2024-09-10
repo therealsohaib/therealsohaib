@@ -24,7 +24,7 @@ I specialize in creating dynamic and scalable web applications with a strong foc
 
 ## 📫 Let's Connect
 You can reach out to me via:
-- **LinkedIn**: [sohaibhassan6](https://www.linkedin.com/in/sohaibhassan6/)
+- **LinkedIn**: [Sohaib Hassan](https://www.linkedin.com/in/sohaibhassan6/)
 
 ## 👨‍💻 Pronouns
 He/Him
